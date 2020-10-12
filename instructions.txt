@@ -1,0 +1,5 @@
+dotnet run FILEPATH PREPEND
+
+ex : 
+
+C:\Users\lionel.maquet\Desktop\mailleux_rename>dotnet run "F:\Document\vente-new\HENDERS & HAZEL\livada\To_site\new" sam-heth-livada
