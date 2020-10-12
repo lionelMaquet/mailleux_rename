@@ -1,3 +1,11 @@
+Renomme les photos 
+Pour les photos : les appeler par le chiffre correspondant à leur ordre. ex : 0, 1, 2, 3
+Pour les pictos : les appeler p
+Pour les noms de dossier : Les appeler par les références. ex : 42232NAL
+
+-> Output : PREPEND-42232NAL-photo-00.jpg
+
+
 dotnet run FILEPATH PREPEND
 
 ex : 
