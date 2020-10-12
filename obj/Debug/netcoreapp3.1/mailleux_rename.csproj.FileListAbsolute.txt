@@ -1,0 +1,11 @@
+C:\Users\lionel.maquet\Desktop\mailleux_rename\obj\Debug\netcoreapp3.1\mailleux_rename.csprojAssemblyReference.cache
+C:\Users\lionel.maquet\Desktop\mailleux_rename\obj\Debug\netcoreapp3.1\mailleux_rename.AssemblyInfoInputs.cache
+C:\Users\lionel.maquet\Desktop\mailleux_rename\obj\Debug\netcoreapp3.1\mailleux_rename.AssemblyInfo.cs
+C:\Users\lionel.maquet\Desktop\mailleux_rename\bin\Debug\netcoreapp3.1\mailleux_rename.exe
+C:\Users\lionel.maquet\Desktop\mailleux_rename\bin\Debug\netcoreapp3.1\mailleux_rename.deps.json
+C:\Users\lionel.maquet\Desktop\mailleux_rename\bin\Debug\netcoreapp3.1\mailleux_rename.runtimeconfig.json
+C:\Users\lionel.maquet\Desktop\mailleux_rename\bin\Debug\netcoreapp3.1\mailleux_rename.runtimeconfig.dev.json
+C:\Users\lionel.maquet\Desktop\mailleux_rename\bin\Debug\netcoreapp3.1\mailleux_rename.dll
+C:\Users\lionel.maquet\Desktop\mailleux_rename\bin\Debug\netcoreapp3.1\mailleux_rename.pdb
+C:\Users\lionel.maquet\Desktop\mailleux_rename\obj\Debug\netcoreapp3.1\mailleux_rename.dll
+C:\Users\lionel.maquet\Desktop\mailleux_rename\obj\Debug\netcoreapp3.1\mailleux_rename.pdb
